@@ -1,16 +1,40 @@
-## Hi there 👋
+## Portfolio - Tommy Robinson
 
-<!--
-**tommy-robinson/tommy-robinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there!  I'm a rising sophomore at Dartmouth College interested in computer and data science. 
 
-Here are some ideas to get you started:
+#### My Skills..
+- Python
+- Java
+- React
+- Next.js
+- C
+- SQL
+- Unix
+- Pandas
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### A few relevant courses I've taken...
+- QSS 020 Modern Statistical Computing
+- CS 50 Software Design and Implementation
+- CS 010 Problem Solving: Object Oriented Programming
+- ENGS 15.06 - Technology Entreprenuership
+
+#### My CS Experience...
+- [Nerd Apply](nerdapply.com) - Computer Programming Intern - May 2024 - Sept. 2024
+  - Redesigned and enhanced front-end features for a successful startup, improving site responsiveness and user interface
+  - Utilized React, Next.js, and Firebase to build dynamic, user-friendly components
+  
+- Dartmouth College Research Assistant - July 2025 - Present
+  - Working to maximize efficiency in CSI transition over Wifi frames between ESP-30 microcontrollers
+
+#### My Projects...
+
+#### My Resume...
+[Resume]()
+
+#### My LinkedIn:
+[LinkedIn](www.linkedin.com/in/tommy-robinson-6bb998322)
+
+#### My Contact Information...
+- Gmail: thomas.w.robinson.28@dartmouth.edu
+- Phone: 978-888-3816
