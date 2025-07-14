@@ -17,7 +17,7 @@ Hi there!  I'm a rising sophomore at Dartmouth College interested in computer an
 - QSS 020 Modern Statistical Computing
 - CS 50 Software Design and Implementation
 - CS 010 Problem Solving: Object Oriented Programming
-- ENGS 15.06 - Technology Entreprenuership
+- ENGS 15.06 Technology Entreprenuership
 
 #### My CS Experience...
 - [Nerd Apply](nerdapply.com) - Computer Programming Intern - May 2024 - Sept. 2024
