@@ -30,7 +30,7 @@ Hi there!  I'm a rising sophomore at Dartmouth College interested in computer an
 #### My Projects...
 
 #### My Resume...
-[Resume](Thomas__Robinson__Resume .pdf)
+[Resume](https://github.com/tommy-robinson/tommy-robinson/blob/main/Thomas__Robinson__Resume%20.pdf)
 
 #### My LinkedIn:
 [LinkedIn](https://www.linkedin.com/in/tommy-robinson-6bb998322)
