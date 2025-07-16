@@ -28,11 +28,13 @@ Hi there!  I'm a rising sophomore at Dartmouth College interested in computer an
   - Working to maximize efficiency in CSI transmition over Wifi frames between ESP-30 microcontrollers
 
 #### Projects...
+- [Nuggets Game]()
+  - 
 
 #### Resume...
 [Resume](https://github.com/tommy-robinson/tommy-robinson/blob/main/Thomas__Robinson__Resume%20.pdf)
 
-#### LinkedIn:
+#### LinkedIn...
 [LinkedIn](https://www.linkedin.com/in/tommy-robinson-6bb998322)
 
 #### Contact Information...
