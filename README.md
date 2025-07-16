@@ -28,7 +28,7 @@ Hi there!  I'm a rising sophomore at Dartmouth College interested in computer an
   - Working to maximize efficiency in CSI transmition over Wifi frames between ESP-30 microcontrollers
 
 #### Projects...
-- Nuggets Game - C Programming, Network Programming, Systems Design
+- Nuggets Game 
   - Developed a real-time, multiplayer terminal-based exploration game in C, where players compete to collect gold in a variable map. Designed and implemented  the game server, which handles game state, player movement, and game logic. Supported up to 26 players and spectator views, with full visibility and player interaction logic.
 
 - COVID-19 Impact on Nature Appreciation
