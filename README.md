@@ -2,7 +2,7 @@
 
 Hi there!  I'm a rising sophomore at Dartmouth College interested in computer and data science. 
 
-#### My Skills..
+#### Skills..
 - Python
 - Java
 - React
@@ -19,22 +19,22 @@ Hi there!  I'm a rising sophomore at Dartmouth College interested in computer an
 - CS 010 Problem Solving: Object Oriented Programming
 - ENGS 15.06 Technology Entreprenuership
 
-#### My CS Experience...
+#### CS Experience...
 - [Nerd Apply](nerdapply.com) - Computer Programming Intern - May 2024 - Sept. 2024
   - Redesigned and enhanced front-end features for a successful startup, improving site responsiveness and user interface
   - Utilized React, Next.js, and Firebase to build dynamic, user-friendly components
   
 - Dartmouth College Research Assistant - July 2025 - Present
-  - Working to maximize efficiency in CSI transition over Wifi frames between ESP-30 microcontrollers
+  - Working to maximize efficiency in CSI transmition over Wifi frames between ESP-30 microcontrollers
 
-#### My Projects...
+#### Projects...
 
-#### My Resume...
+#### Resume...
 [Resume](https://github.com/tommy-robinson/tommy-robinson/blob/main/Thomas__Robinson__Resume%20.pdf)
 
-#### My LinkedIn:
+#### LinkedIn:
 [LinkedIn](https://www.linkedin.com/in/tommy-robinson-6bb998322)
 
-#### My Contact Information...
+#### Contact Information...
 - Gmail: thomas.w.robinson.28@dartmouth.edu
 - Phone: 978-888-3816
