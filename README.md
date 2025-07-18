@@ -25,7 +25,7 @@ Hi there!  I'm a rising sophomore at Dartmouth College interested in computer an
   - Utilized React, Next.js, and Firebase to build dynamic, user-friendly components
   
 - Dartmouth College Research Assistant - July 2025 - Present
-  - Working to maximize efficiency in CSI transmition over Wifi frames between ESP-32 microcontrollers
+  - Working to maximize efficiency in CSI transmission over Wifi frames between ESP-32 microcontrollers
 
 #### Projects...
 - Nuggets Game 
